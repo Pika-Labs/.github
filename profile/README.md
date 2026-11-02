@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://pika.art">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pika-Labs/.github/main/profile/assets/pika-wordmark-light.png">
-      <img src="https://raw.githubusercontent.com/Pika-Labs/.github/main/profile/assets/pika-wordmark-dark.png" alt="Pika" width="360">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pika-wordmark-light.png">
+      <img src="./assets/pika-wordmark-dark.png" alt="Pika" width="360">
     </picture>
   </a>
 </p>
